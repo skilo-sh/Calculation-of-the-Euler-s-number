@@ -23,5 +23,5 @@ En faisant la somme des 30 premiers termes, j'obtiens $e = 2.71828$ ce qui va da
 
 ### Compilation et execution du programme :
 
-```g++ e_value.cpp -o e_value```
+```g++ e_value.cpp -o e_value```<br>
 ```./e_value```
